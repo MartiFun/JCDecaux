@@ -1,0 +1,36 @@
+#map { height: 500px; }
+
+.searchbar{
+    display: flex;
+    margin: 40px 0 25px 0;
+    height: 60px;
+}
+
+.search_icon{
+  margin-left: 10px;
+}
+
+.cardbody{
+  display: flex;
+  margin-top: 10px;
+  padding: 10px !important;
+  padding-top: 10px!important;
+  color: white !important;
+}
+
+.widget-49-title-wrapper{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.widget-49-date-day{
+  margin-left: 20px;
+  //display: none;
+}
+
+img.huechange { filter: hue-rotate(120deg); }
+
+.swal2-confirm{
+  background-color: #3e8ed0 !important;
+}
